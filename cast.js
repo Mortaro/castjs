@@ -6,7 +6,7 @@ if (window.chrome && !window.chrome.cast) {
 }
 
 // Castjs
-class Castjs {
+export default class Castjs {
     // constructor takes optional options
     constructor(opt = {}) {
         // valid join policies

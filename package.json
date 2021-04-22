@@ -1,0 +1,22 @@
+{
+  "name": "castjs",
+  "version": "1.0.0",
+  "description": "This is a fork of castjs for reasons",
+  "main": "cast.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mortaro/castjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mortaro/castjs/issues"
+  },
+  "homepage": "https://github.com/Mortaro/castjs#readme"
+}
